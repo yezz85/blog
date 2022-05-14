@@ -1,0 +1,19 @@
+{
+    "name": "yezzdesign/blog",
+    "description": "Simple Blog",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yezzdesign\\Blog\\": "packages/yezzdesign/blog/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yezz85",
+            "email": "yezariael85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
